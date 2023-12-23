@@ -88,3 +88,13 @@ pragma solidity ^0.8.19; 很怪吧，好无聊，离成功更近一点，离失�
 Q1:
 make: \*\*\* No rule to make target 'build'. Stop.
 A1:目前解决方案 MakeFile 文件名改为 Makefile
+
+# About
+
+This is a crowd sourcing app!
+
+# Getting started
+
+## Requirements
+
+## Quickstart
